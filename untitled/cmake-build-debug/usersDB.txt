@@ -1,0 +1,4 @@
+username,password,account_balance,CarBorrowRequest,CarReturnRequest
+johndoe,password123,1000,False,False
+janedoe,password456,2000,False,False
+robby,Robby999,15000,False,False
